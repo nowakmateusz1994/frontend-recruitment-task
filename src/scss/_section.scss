@@ -39,6 +39,7 @@
 
         &__content {
             flex-basis: calc(5 / 12 * 100%);
+            justify-content: center;
         }
 
         &__wrap {
@@ -48,6 +49,7 @@
 
         &__img {
             flex-basis: calc(7 / 12 * 100%);
+            text-align: center;
 
             img {
                 max-width: 505px;
